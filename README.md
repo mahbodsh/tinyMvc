@@ -2,23 +2,23 @@
 
   A tiny MVC written in PHP Programming language with folder structure similar to CodeIgniter framework.
 
-#Disclaimer
+# Disclaimer
 
   It's not advisable to apply it for live projects, as i developed it to learn better Mvc.
 
 
-#Getting Started
+# Getting Started
 
   Copy the project in your folder and install the database dump in your PhpMyAdmin. Follow the instructions to complete the installation.
 
-#Prerequisites
+# Prerequisites
 
     Apache Server
     PHP 5.6+
     Mysql Database
     
     
-#Config File
+# Config File
 
   Modify the app/config/config.php file according to your needs. You can use example.config.php file inside the same folder as an example based on my local settings.
 
@@ -36,12 +36,12 @@
   define('DB_PASS', '');
   define('DB_NAME', 'tiny_mvc');
 
-#htaccess file
+# htaccess file
 
   Modify che .htaccess file inside the public folder to match the name of your installation folder
 
 
-#Install the Database
+# Install the Database
 
   Create a database of your choice in PhpMyAdmin and import the tiny_mvc.sql file in it.
   
