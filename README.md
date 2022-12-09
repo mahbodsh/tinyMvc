@@ -43,5 +43,5 @@
 
 # Install the Database
 
-  Create a database of your choice in PhpMyAdmin and import the tiny_mvc.sql file in it.
+  Create a database in your MySQL DBMS and import the tiny_mvc.sql file in it.
   
